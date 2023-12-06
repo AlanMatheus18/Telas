@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.tela{
+    width: 380px;
+    height: 780px;
+    background-color: #81CBE7;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+input::placeholder {
+    color: white;
+  }
+
+  .btn{
+    color: white;
+  }
